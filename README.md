@@ -34,7 +34,7 @@ This is a personal portfolio website for M. Abdullah Sohail, showcasing skills, 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   https://github.com/abdullahsohail-00/abdullahsohail-old-portfolio.git
    cd your-repo-name
    ```
 
